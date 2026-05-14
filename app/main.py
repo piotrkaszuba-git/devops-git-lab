@@ -1,3 +1,3 @@
 print("Hello DevOps v2")
 print('Login feature')
-print("Feature A")
+print("Feature A + Feature B")
